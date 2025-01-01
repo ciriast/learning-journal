@@ -25,3 +25,6 @@ Practicing the presentation
 
 **Date:** 11/11/2025
 My laptop HDMI is broken, so is making me more difficult to practice, damn!!!!!
+
+**Date:** 12/11/2025
+Trying to obtain read the book
