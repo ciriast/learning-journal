@@ -1,0 +1,51 @@
+# 🧠 Learning Log – Setting up a Focused Tmux Environment(WSL)
+
+**📅 Date:** April 12, 2025
+
+## 🎯 Goal
+
+Create a development environment using `tmux` and `tmuxp` on WSL, with fullscreen windows for:
+- Coding Project A (using `nvim`)
+- Git terminal for Project A
+- Writing Project B (using `nvim`)
+- Git terminal for Project B
+
+All windows will be separate (no splits) to maintain focus on individual tasks.
+
+---
+
+## ✅ Steps Taken
+
+### 1. Check Current tmux Version
+
+Run the following command to check the current version of tmux:
+
+```bash
+tmux -V
+ # 🧠 Learning Log – Setting up a Focused Tmux Environment (WSL)
+
+**📅 Date:** April 12, 2025
+
+## 🎯 Goal
+
+Create a development environment using `tmux` and `tmuxp` on WSL, with fullscreen windows for:
+- Coding Project A (using `nvim`)
+- Git terminal for Project A
+- Writing Project B (using `nvim`)
+- Git terminal for Project B
+
+All windows will be separate (no splits) to maintain focus on individual tasks.
+
+---
+
+## ✅ Steps Taken
+
+### 1. Check Current tmux Version
+
+Run the following command to check the current version of tmux:
+
+```bash
+tmux -V
+
+
+Until here because chatgpt is so stupid to give me the whole instructions in md
