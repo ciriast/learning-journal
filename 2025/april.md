@@ -49,3 +49,6 @@ tmux -V
 
 
 Until here because chatgpt is so stupid to give me the whole instructions in md
+
+** Date: ** April 14, 2025
+I continue working in the snake game, I have in mind to read the current book also, let's see if I can achieve that goal for today.
