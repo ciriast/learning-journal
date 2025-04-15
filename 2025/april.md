@@ -55,3 +55,4 @@ I continue working in the snake game, I have in mind to read the current book al
 
 ** Date: ** April 15, 2025
 Today I won't be doing a lot of things, yesterday was hard at work, so I need to rest and prepare myself for today.
+I'm in love with tmux, honesty, my env now just feel right.
