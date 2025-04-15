@@ -52,3 +52,6 @@ Until here because chatgpt is so stupid to give me the whole instructions in md
 
 ** Date: ** April 14, 2025
 I continue working in the snake game, I have in mind to read the current book also, let's see if I can achieve that goal for today.
+
+** Date: ** April 15, 2025
+Today I won't be doing a lot of things, yesterday was hard at work, so I need to rest and prepare myself for today.
