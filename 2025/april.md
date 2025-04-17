@@ -63,4 +63,5 @@ Yesterday was a long day, so I didn't too much, for today it seems will be the s
 ```
 ---
 
-## Finally out, I need to learn md, for sure.
+** Date: ** April 17, 2025
+I'm not doing so much today, just refreshing my memory with the goals for snake in C game.
