@@ -68,3 +68,6 @@ I'm not doing so much today, just refreshing my memory with the goals for snake 
 
 **Date:** April 21, 2025
 Back on track, hope to write more code this week.
+
+**Date:** April 22, 2025
+Doing small changes
