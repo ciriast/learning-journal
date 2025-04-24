@@ -74,3 +74,6 @@ Doing small changes
 
 **Date:** April 23, 2025
 Probably I won't be able to work on snake today.
+
+**Date:** April 24, 2025
+I'm working showing movement in the screen in snake game.
