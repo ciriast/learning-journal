@@ -87,3 +87,6 @@ I have to work today, so, no changes.
 
 **Date:** April 27, 2025
 More work to do.
+
+**Date:** April 28, 2025
+This week I'm going to be full concentrate in my job, so probably won't be many improves.
