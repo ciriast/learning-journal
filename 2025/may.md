@@ -24,3 +24,6 @@ I had to travel today.
 
 **Date:** May 11, 2025
 Clasico time! The best day to work!
+
+**Date:** May 12, 2025
+This week all of my time will be focus on renew az 104
