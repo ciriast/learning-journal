@@ -27,3 +27,6 @@ Clasico time! The best day to work!
 
 **Date:** May 12, 2025
 This week all of my time will be focus on renew az 104
+
+**Date:** May 13, 2025
+Seems I won't able to renew my az-104 certificate because the Microsoft bug.
