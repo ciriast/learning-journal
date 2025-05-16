@@ -33,3 +33,6 @@ Seems I won't able to renew my az-104 certificate because the Microsoft bug.
 
 **Date:** May 14, 2025
 Work hard!
+
+**Date:** May 15, 2025
+Good day, I hope to be back to my personal projects next week!
