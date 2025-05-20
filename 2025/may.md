@@ -48,3 +48,6 @@ It's sunday and I have to work!
 
 **Date:** May 19, 2025
 Good day at work, I'll try to come back with my personal projects tomorrow.
+
+**Date:** May 20, 2025
+Starting the day.
