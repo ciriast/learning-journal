@@ -54,3 +54,6 @@ Starting the day.
 
 **Date:** May 21, 2025
 I need to find the best hour to program in my free time.
+
+**Date:** May 22, 2025
+I need to stop wasting time in social media.
