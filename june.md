@@ -12,3 +12,6 @@ I hope today will be a good day!
 
 **Date:** June 5
 Today was a good day.
+
+**Date:** June 6
+Tired.
