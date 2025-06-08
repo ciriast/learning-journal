@@ -18,3 +18,6 @@ Tired.
 
 **Date:** June 7
 Trip today.
+
+**Date:** June 8
+I need to work today.
