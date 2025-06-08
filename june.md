@@ -15,3 +15,6 @@ Today was a good day.
 
 **Date:** June 6
 Tired.
+
+**Date:** June 7
+Trip today.
