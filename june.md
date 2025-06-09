@@ -21,3 +21,6 @@ Trip today.
 
 **Date:** June 8
 I need to work today.
+
+**Date:** June 9
+I hope this week will be good.
