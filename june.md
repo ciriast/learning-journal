@@ -27,3 +27,6 @@ I hope this week will be good.
 
 **Date:** June 10
 Big day ahead.
+
+**Date:** June 11
+Two days off.
