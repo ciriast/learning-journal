@@ -30,3 +30,6 @@ Big day ahead.
 
 **Date:** June 11
 Two days off.
+
+**Date:** June 12
+Traveling again.
