@@ -20,3 +20,6 @@ Sunday and I'll work later
 **Date:** 7/07/2025
 A good day remembering basic things in c
 Some structs today
+
+**Date:** 8/07/2025
+Books today.
