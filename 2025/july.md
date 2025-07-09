@@ -24,3 +24,6 @@ Some structs today
 **Date:** 8/07/2025
 Books today.
 I feel sick today, hope to feel better tomorrow.
+
+**Date:** 9/07/2025
+I'm still feel sick today, but I need to continue working
