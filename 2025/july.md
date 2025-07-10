@@ -29,3 +29,6 @@ I feel sick today, hope to feel better tomorrow.
 I'm still feel sick today, but I need to continue working
 Today I'm reading C Programming A Modern Approach and Computer Science- An Overview
 Feeling worst right now.
+
+**Date:** 10/07/2025
+Still sick, damn.
