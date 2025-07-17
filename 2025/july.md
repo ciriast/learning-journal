@@ -56,3 +56,6 @@ Let's keep the good work.
 
 **Data:** 16/07/2025
 A long day, uff
+
+**Date:** 17/07/2024
+Preparing the date
