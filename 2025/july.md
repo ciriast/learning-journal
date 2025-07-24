@@ -79,3 +79,6 @@ No much time these days
 **Date:** 23/07/2025
 A little of C book and monkeytype practice
 Today was a good day.
+
+**Date:** 24/07/2025
+Busy day
