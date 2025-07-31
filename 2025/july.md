@@ -100,3 +100,6 @@ A little of monkey type
 **Date:** 30/07/2025
 Let's keep the hard work!
 Continue practicing with monkey type
+
+**Date:** 31/07/2025
+Last day of the month, it was a good month, I need to improve certain areas, yes, but I'm feeling good
