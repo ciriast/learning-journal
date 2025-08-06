@@ -19,4 +19,5 @@ just working
 
 **Date:** 6/08/2025
 Trying to be back on track
-Reading computer science 
+Reading computer science
+Reading about embedded
