@@ -16,3 +16,6 @@ Traveling
 
 **Date:** 5/08/2025
 just working
+
+**Date:** 6/08/2025
+Trying to be back on track
