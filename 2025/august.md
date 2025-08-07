@@ -25,3 +25,4 @@ MonkeyType
 
 **Date:** 7/08/2025
 Feeling good.
+Continue with chapter 2 project
