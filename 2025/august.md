@@ -27,3 +27,4 @@ MonkeyType
 Feeling good.
 Continue with chapter 2 project
 MonkeyType
+I finished one project in chapter 2
