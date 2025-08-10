@@ -37,3 +37,6 @@ Another busy weekend
 MonkeyType
 I finished one project in chapter 2
 Starting chapter 3
+
+**Date:** 10/08/2025
+Cleaning
