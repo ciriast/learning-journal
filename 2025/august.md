@@ -35,3 +35,4 @@ I'm busy, maybe I won't be able to practice
 **Date:** 9/08/2025
 Another busy weekend
 MonkeyType
+I finished one project in chapter 2
