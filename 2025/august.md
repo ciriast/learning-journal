@@ -36,3 +36,4 @@ I'm busy, maybe I won't be able to practice
 Another busy weekend
 MonkeyType
 I finished one project in chapter 2
+Starting chapter 3
