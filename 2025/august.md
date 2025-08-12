@@ -43,3 +43,4 @@ Cleaning
 
 **Date:** 11/08/2025
 Busy day, I hope tp get better results tomorrow
+MonkeyType, trying to improve my wpms
