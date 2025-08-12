@@ -46,3 +46,6 @@ Busy day, I hope tp get better results tomorrow
 MonkeyType, trying to improve my wpms
 Reading about scanf function
 I'll try Rider from jetbrains
+
+**Date:** 12/08/2025
+Starting with good vibes
