@@ -40,3 +40,6 @@ Starting chapter 3
 
 **Date:** 10/08/2025
 Cleaning
+
+**Date:** 11/08/2025
+Busy day, I hope tp get better results tomorrow
