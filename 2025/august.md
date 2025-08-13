@@ -50,3 +50,4 @@ I'll try Rider from jetbrains
 **Date:** 12/08/2025
 Starting with good vibes
 new wpm record: 60!
+Reading
