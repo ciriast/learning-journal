@@ -59,3 +59,4 @@ Reading
 
 **Date:** 14/08/2025
 Starting the day with monkeytype
+Reading and continue with chapter 3 exercises
