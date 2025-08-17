@@ -70,3 +70,4 @@ Finishing one exercise from the book
 
 **Date:** 17/08/2025
 Busy day
+MonkeyType for real
