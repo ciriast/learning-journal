@@ -67,3 +67,6 @@ Testing rider for cs, let's see...
 
 **Date:** 16/08/2025
 Finishing one exercise from the book
+
+**Date:** 17/08/2025
+Busy day
