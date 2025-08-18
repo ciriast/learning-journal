@@ -72,3 +72,6 @@ Finishing one exercise from the book
 Busy day
 MonkeyType for real
 New monkey type record, 67 wpm!!
+
+**Date: 18/08/2025
+Let's complete a good week!
