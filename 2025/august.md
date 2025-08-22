@@ -73,17 +73,20 @@ Busy day
 MonkeyType for real
 New monkey type record, 67 wpm!!
 
-**Date: 18/08/2025
+**Date:** 18/08/2025
 Let's complete a good week!
 Busy day.
 
-**Date: 19/08/2025
+**Date:** 19/08/2025
 More busy, no more changes for today
 
-**Date: 20/08/2025
+**Date:** 20/08/2025
 Busy day, no changes for today
 
-^^Date: 21/08/2025
+^^Date:** 21/08/2025
 Busy, no time for fun things, but I'm keeping the good mod.
 MonkeyTyoe, let's go!
 More monkeyType
+
+**Date:** 22/08/2025
+Start the day with monkeytype
