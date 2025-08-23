@@ -90,3 +90,4 @@ More monkeyType
 
 **Date:** 22/08/2025
 Start the day with monkeytype
+I watch a video about vim motions, great one, I'll try to watch it a couple of times to learn more stuff
