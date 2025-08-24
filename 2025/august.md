@@ -96,3 +96,6 @@ I watch a video about vim motions, great one, I'll try to watch it a couple of t
 Primeagen video about vim motions is awesome.
 Continue with vim motions, learning cool new things
 monkeytype
+
+**Date:** 24/08/2025
+Busy, no time to program
