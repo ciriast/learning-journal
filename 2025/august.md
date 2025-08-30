@@ -112,6 +112,10 @@ A really busy and exciting day!
 **Date:** 28/08/2025
 A good day to code!
 
-**Date:**
+**Date:** 29/08/2025
 I wish I can code today.
 Monkeytype today
+
+**Date:** 30/08/2025
+I really like vim, I'm just a beginner but it's really nice.
+monkeytype
