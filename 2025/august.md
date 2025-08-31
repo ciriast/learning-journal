@@ -120,3 +120,6 @@ Monkeytype today
 I really like vim, I'm just a beginner but it's really nice.
 monkeytype
 Having fun today learning about string formating in c
+
+**Date:** 31/08/2025
+I need to work today, so I won't program
