@@ -8,3 +8,6 @@ ok, now the bash script is ready for wifi, damn
 
 **Date:** 17/10/2025
 Nice work today
+
+**Date:** 18/10/2025
+Today I have time to continue reading the tech books!
