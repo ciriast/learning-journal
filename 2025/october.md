@@ -11,3 +11,4 @@ Nice work today
 
 **Date:** 18/10/2025
 Today I have time to continue reading the tech books!
+I finish project 4, chapter 3
