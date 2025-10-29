@@ -41,3 +41,6 @@ Good day with monkeytype
 
 **Date:** 27/10/2025
 No time today
+
+**Date:** 28/10/2025
+Workin in my presentation
