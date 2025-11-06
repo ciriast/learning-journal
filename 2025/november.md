@@ -9,3 +9,6 @@ Good day at work and practicing the tech talk
 
 **Date:** 4/10/2025
 Continue with the work and the tech talk
+
+**Date:** 5/10/2025
+Good day at work and continue with the talk
