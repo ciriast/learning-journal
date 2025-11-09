@@ -19,3 +19,6 @@ great day today!
 
 **Date:** 7/11/2025
 Good day at work, now I'll focus in the talk
+
+**Date:** 8/11/2025
+Practicing the presentation
