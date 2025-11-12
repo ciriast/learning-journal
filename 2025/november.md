@@ -22,3 +22,6 @@ Good day at work, now I'll focus in the talk
 
 **Date:** 8/11/2025
 Practicing the presentation
+
+**Date:** 11/11/2025
+My laptop HDMI is broken, so is making me more difficult to practice, damn!!!!!
