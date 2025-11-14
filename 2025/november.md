@@ -28,3 +28,6 @@ My laptop HDMI is broken, so is making me more difficult to practice, damn!!!!!
 
 **Date:** 12/11/2025
 Trying to obtain read the book
+
+**Date:** 13/11/2025
+Good day at work
