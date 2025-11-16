@@ -37,3 +37,6 @@ Good day at work, let's continue working on weekend
 
 **Date** 15/11/2025
 Only work today, maybe next week I'll get back to the book
+
+**Date:** 16/11/2025
+Sunday to work
