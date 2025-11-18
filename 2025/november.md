@@ -40,3 +40,6 @@ Only work today, maybe next week I'll get back to the book
 
 **Date:** 16/11/2025
 Sunday to work
+
+**Date:** 17/11/2025
+Only work today, long day
