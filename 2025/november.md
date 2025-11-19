@@ -43,3 +43,6 @@ Sunday to work
 
 **Date:** 17/11/2025
 Only work today, long day
+
+**Date:** 18/11/2025
+TODAY i had to work more hours at work
