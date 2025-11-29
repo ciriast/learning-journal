@@ -76,3 +76,7 @@ Day off
 
 **Date:** 28/11/2025
 A hard day today
+
+**Date:** 29/11/2025
+Saturday to work!
+I won't study today
