@@ -10,3 +10,4 @@ I'm back in boot.dev, let's go!!!!
 I'm taking git course on boot.dev!
 I hope to have a great day today!
 Ready to continue with boot.dev lessons
+great day learning about git!
