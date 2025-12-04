@@ -11,3 +11,6 @@ I'm taking git course on boot.dev!
 I hope to have a great day today!
 Ready to continue with boot.dev lessons
 great day learning about git!
+
+**Date:** 4/12/2025
+Starting the day with a good mood!
