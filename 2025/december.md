@@ -9,3 +9,4 @@ I'm back in boot.dev, let's go!!!!
 **Date:** 3/12/2025
 I'm taking git course on boot.dev!
 I hope to have a great day today!
+Ready to continue with boot.dev lessons
