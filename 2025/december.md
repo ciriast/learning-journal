@@ -15,3 +15,6 @@ great day learning about git!
 **Date:** 4/12/2025
 Starting the day with a good mood!
 I did boot.dev, let's go!!!!
+
+**Date:** 5/12/2025
+let's keep the good streak :D
