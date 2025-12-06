@@ -19,3 +19,6 @@ I did boot.dev, let's go!!!!
 **Date:** 5/12/2025
 let's keep the good streak :D
 Entering the branch chapter!
+
+**Date:** 6/12/2025
+A little bit of boot.dev and then work
