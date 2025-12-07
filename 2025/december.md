@@ -24,3 +24,6 @@ Entering the branch chapter!
 A little bit of boot.dev and then work
 I completed good amount of tasks in boot.dev
 I'm really enjoying this git course, it's great!!
+
+**Date:** 7/12/2025
+Great way to start the day, I completed the merge chapter!!!!
