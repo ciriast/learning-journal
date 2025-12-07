@@ -22,3 +22,5 @@ Entering the branch chapter!
 
 **Date:** 6/12/2025
 A little bit of boot.dev and then work
+I completed good amount of tasks in boot.dev
+I'm really enjoying this git course, it's great!!
