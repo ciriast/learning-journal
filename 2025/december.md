@@ -27,3 +27,7 @@ I'm really enjoying this git course, it's great!!
 
 **Date:** 7/12/2025
 Great way to start the day, I completed the merge chapter!!!!
+
+**Date:** 8/12/2025
+Starting the day learning about git rebase!
+I finished the git rebase chapter
