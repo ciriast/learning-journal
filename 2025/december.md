@@ -39,3 +39,4 @@ I completed the git course!!!
 
 **Date: 10/12/2025
 I'll start the asteroid game course
+I already have python installed, I installed uv package manager on my machine
