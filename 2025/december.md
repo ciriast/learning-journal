@@ -35,3 +35,4 @@ I finished the git reset chapter!!
 
 **Date:** 9/12/2025
 Starting the day with the remote chapter
+I completed the git course!!!
