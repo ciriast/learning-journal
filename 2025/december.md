@@ -37,6 +37,9 @@ I finished the git reset chapter!!
 Starting the day with the remote chapter
 I completed the git course!!!
 
-**Date: 10/12/2025
+**Date:** 10/12/2025
 I'll start the asteroid game course
 I already have python installed, I installed uv package manager on my machine
+
+**Date:** 11/12/2025
+Let's build that python game!
