@@ -45,3 +45,7 @@ I already have python installed, I installed uv package manager on my machine
 Let's build that python game!
 my python env, seems to be working fine
 Good day at work
+
+**Date:** 12/12/2025
+let's have a wonderful day
+I think I won't be able to complete any lessos on boot.dev
