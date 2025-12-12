@@ -44,3 +44,4 @@ I already have python installed, I installed uv package manager on my machine
 **Date:** 11/12/2025
 Let's build that python game!
 my python env, seems to be working fine
+Good day at work
