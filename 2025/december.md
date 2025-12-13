@@ -50,3 +50,6 @@ Good day at work
 let's have a wonderful day
 I think I won't be able to complete any lessos on boot.dev
 I was able to complete one lesson on boot.dev!!!
+
+**Date:** 13/12/2025
+Starting late today, cleaning the house
