@@ -53,3 +53,8 @@ I was able to complete one lesson on boot.dev!!!
 
 **Date:** 13/12/2025
 Starting late today, cleaning the house
+
+**Date:** 14/12/2025
+I completed a python lesson on boot.dev
+I'll work now!
+Nice sunday!
