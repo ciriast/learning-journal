@@ -61,3 +61,6 @@ Nice sunday!
 
 **Date:** 15/12/2025
 wow, this lesson on boot.dev was hard
+
+**Date:** 16/12/2025
+great morning, I completed one task in boot.dev
