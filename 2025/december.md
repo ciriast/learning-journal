@@ -58,3 +58,6 @@ Starting late today, cleaning the house
 I completed a python lesson on boot.dev
 I'll work now!
 Nice sunday!
+
+**Date:** 15/12/2025
+wow, this lesson on boot.dev was hard
