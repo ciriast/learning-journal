@@ -64,3 +64,6 @@ wow, this lesson on boot.dev was hard
 
 **Date:** 16/12/2025
 great morning, I completed one task in boot.dev
+
+**Date:** 17/12/2025
+Studying on boot.dev, this asteroids python task is hard
