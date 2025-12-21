@@ -74,3 +74,6 @@ I completed a task on boot.dev!!
 
 **Date:** 19/12/2025
 Traveling
+
+**Date:** 20/12/2025
+still Traveling
