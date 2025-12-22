@@ -77,3 +77,6 @@ Traveling
 
 **Date:** 20/12/2025
 still Traveling
+
+**Date:** 21/12/2025
+Back in home!
