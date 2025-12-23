@@ -80,3 +80,6 @@ still Traveling
 
 **Date:** 21/12/2025
 Back in home!
+
+**Date:** 22/12/2025
+Only working today
