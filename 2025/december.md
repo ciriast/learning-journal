@@ -83,3 +83,6 @@ Back in home!
 
 **Date:** 22/12/2025
 Only working today
+
+**Date:** 23/12/2025
+I comoleted a small task on boot.dev
