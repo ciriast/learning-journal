@@ -86,3 +86,6 @@ Only working today
 
 **Date:** 23/12/2025
 I comoleted a small task on boot.dev
+
+**Date:** 24/12/2025
+Spend the day with my family
