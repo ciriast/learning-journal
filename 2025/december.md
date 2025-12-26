@@ -89,3 +89,6 @@ I comoleted a small task on boot.dev
 
 **Date:** 24/12/2025
 Spend the day with my family
+
+**Date:** 25/12/2025
+navidad with my family
