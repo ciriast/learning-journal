@@ -12,3 +12,6 @@ I completed a task on boot.dev!!!!
 **Date:** 6-january-2026
 Starting the day with boot.dev
 I completed a task in boot.dev, great way to start the day
+
+**Date:** 7-january-2026
+I'll start with boot.dev
