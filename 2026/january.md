@@ -16,3 +16,4 @@ I completed a task in boot.dev, great way to start the day
 **Date:** 7-january-2026
 I'll start with boot.dev
 I completed a task in boot.dev, let's go!
+my wpm goal for this year is 100
