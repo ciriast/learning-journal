@@ -17,3 +17,7 @@ I completed a task in boot.dev, great way to start the day
 I'll start with boot.dev
 I completed a task in boot.dev, let's go!
 my wpm goal for this year is 100
+
+**Date:** 8-january-2026
+I finished the python game project on boot.dev!
+That was hard
