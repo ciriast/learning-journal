@@ -21,3 +21,6 @@ my wpm goal for this year is 100
 **Date:** 8-january-2026
 I finished the python game project on boot.dev!
 That was hard
+
+**Date:** 9-january-2026
+Completed all the pygame asteroid project!
