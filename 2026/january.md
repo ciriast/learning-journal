@@ -24,3 +24,6 @@ That was hard
 
 **Date:** 9-january-2026
 Completed all the pygame asteroid project!
+
+**Date:** 10-january-2026
+only working today, let's check boot.dev!
