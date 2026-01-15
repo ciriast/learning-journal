@@ -43,3 +43,4 @@ I completed one task on boot.dev
 **Date:** 14-january-2026
 This is a good week, let's continue with the good mood
 I completed two task on boot.dev, I feel great!
+Today I have the time to study dotnet, so that's good
