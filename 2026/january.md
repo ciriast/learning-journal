@@ -52,3 +52,4 @@ Today was the best day on boot.dev, I'm really enjoying Funtional Programming no
 
 **Date:** 16-january-2026
 Starting the day with boot.dev
+uf, everytime is most difficult in boot.dev, but I was able to complete the task!
