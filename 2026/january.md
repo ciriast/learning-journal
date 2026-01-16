@@ -48,3 +48,4 @@ Today I have the time to study dotnet, so that's good
 **Date:** 15-january-2026
 I'll try to complete a task on boot.dev
 I completed a very hard task on boot.dev, I'm very happy!
+Today was the best day on boot.dev, I'm really enjoying Funtional Programming now
