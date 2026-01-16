@@ -49,3 +49,6 @@ Today I have the time to study dotnet, so that's good
 I'll try to complete a task on boot.dev
 I completed a very hard task on boot.dev, I'm very happy!
 Today was the best day on boot.dev, I'm really enjoying Funtional Programming now
+
+**Date:** 16-january-2026
+Starting the day with boot.dev
