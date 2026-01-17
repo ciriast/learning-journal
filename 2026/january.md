@@ -53,3 +53,6 @@ Today was the best day on boot.dev, I'm really enjoying Funtional Programming no
 **Date:** 16-january-2026
 Starting the day with boot.dev
 uf, everytime is most difficult in boot.dev, but I was able to complete the task!
+
+**Date:** 17-january-2026
+I completed a task on boot.dev, damn, this is hard, but I'm really enjoying this course
