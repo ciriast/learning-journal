@@ -56,3 +56,6 @@ uf, everytime is most difficult in boot.dev, but I was able to complete the task
 
 **Date:** 17-january-2026
 I completed a task on boot.dev, damn, this is hard, but I'm really enjoying this course
+
+**Date:** 18-january-2026
+Sunday and want to program all day
