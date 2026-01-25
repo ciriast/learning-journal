@@ -88,3 +88,6 @@ Good day at work, no time for boot.dev
 
 **Date:** 24-january-2026
 Travelling today, no time to work
+
+**Date:** 25-january-2026
+I'm going to work on some boot.dev task
