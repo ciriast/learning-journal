@@ -85,3 +85,6 @@ I completed a very hard task on boot.dev!
 Yesterday was a very good day at work!
 I completed a easy task on boot.dev, I'll work on hard one tonight
 Good day at work, no time for boot.dev
+
+**Date:** 24-january-2026
+Travelling today, no time to work
