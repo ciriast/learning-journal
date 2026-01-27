@@ -92,3 +92,6 @@ Travelling today, no time to work
 **Date:** 25-january-2026
 I'm going to work on some boot.dev task
 I completed the three task on boot.dev
+
+**Date:** 26-january-2026
+I don't have time for boot.dev today, to many things today
