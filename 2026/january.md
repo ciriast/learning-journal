@@ -105,3 +105,6 @@ Completed a basic task on boot.dev
 **Date:** 28-january-2026
 I completed a hard task on boot.dev!!
 Hum, why is not taking my commit
+
+**Date:** 29-janaury-2026
+That task on boot dev was the hardest one, ufff, damn, that was hard, recursion chapter completed!!!
