@@ -111,3 +111,6 @@ That task on boot dev was the hardest one, ufff, damn, that was hard, recursion 
 
 **Date:** 30-january-2026
 I started the function transform chapter!
+
+**Date:** 31-january-2026
+last day of the month, let's make some good code
