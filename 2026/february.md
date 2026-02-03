@@ -7,3 +7,5 @@ I completed a closure basic task on boot.dev
 I completed a basic task on boot.dev!!
 Time to work!
 Good day at work
+I completed a hard task on boot.dev!!!
+clousures chapter completed!!
