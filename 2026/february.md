@@ -13,3 +13,4 @@ clousures chapter completed!!
 **Date:** 3-fabruary-2026
 Starting the day with boot.dev!
 I completed three basic tasks on boot.dev
+It was a hard today, let's keep the smile :D
