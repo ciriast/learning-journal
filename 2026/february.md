@@ -22,3 +22,6 @@ Good day at work
 
 **Date:** 5-fabruary-2026
 Nothing today, I'm ko
+
+**Date:** 6-february-2026
+Still KO,let's rest
