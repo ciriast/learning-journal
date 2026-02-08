@@ -25,3 +25,6 @@ Nothing today, I'm ko
 
 **Date:** 6-february-2026
 Still KO,let's rest
+
+**Date:** 8-february-2026
+Still KO
