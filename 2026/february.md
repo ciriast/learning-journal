@@ -50,5 +50,8 @@ Trying to get back to my routine
 **Date:** 15-february-2026
 Sunday working
 
-**Date:*8 16-february-2026
+**Date:** 16-february-2026
 Only working today
+
+**Date:** 17-february-2026
+only working, no time for more, I need to continue recovering
