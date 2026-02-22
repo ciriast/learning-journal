@@ -72,3 +72,4 @@ I completed one hard task on boot.dev!!
 
 **Date:** 22-february-2026
 Let's continue the streak!
+I completed the currying chapter on boot.dev!!
