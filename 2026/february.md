@@ -76,3 +76,4 @@ I completed the currying chapter on boot.dev!!
 
 **Date:** 23-february-2026
 Starting the decorators chapter
+I completed one basic task on boot.dev
