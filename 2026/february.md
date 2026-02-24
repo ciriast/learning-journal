@@ -78,3 +78,6 @@ I completed the currying chapter on boot.dev!!
 Starting the decorators chapter
 I completed one basic task on boot.dev
 good day at work, let's keep focus on what matters
+
+**Date:** 24-february-2026
+let's work!
