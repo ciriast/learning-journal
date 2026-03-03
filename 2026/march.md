@@ -6,3 +6,4 @@ Focus on programming
 
 **Date:** 3-march-2026
 yesterday was a long day at work
+I completed two basic tasks on boot.dev!
