@@ -13,3 +13,6 @@ Let's finish my assigments!
 Feeling good today!
 Working in a hard task on boot.dev
 I completed the task!!
+
+**Date:** 5-march-2026
+yesterday was a good day
