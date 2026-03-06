@@ -18,3 +18,6 @@ I completed the task!!
 yesterday was a good day
 I completed a task on boot.dev!!
 Starting the course last chapter, sum types!
+
+**Date:** 6-march-2026
+Starting the day with a good mood!
