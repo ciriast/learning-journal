@@ -22,3 +22,6 @@ Starting the course last chapter, sum types!
 **Date:** 6-march-2026
 Starting the day with a good mood!
 I completed a basic task on boot.dev
+
+**Date:** 7-march-2026
+Traveling
