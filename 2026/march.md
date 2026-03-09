@@ -25,3 +25,6 @@ I completed a basic task on boot.dev
 
 **Date:** 7-march-2026
 Traveling
+
+**Date:** 8-march-2026
+Back in home
