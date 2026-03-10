@@ -35,3 +35,4 @@ I completed basic tasks on boot.dev
 
 **Date:** 10-march-2026
 Starting the day with boot.dev
+I completed the functional programming
