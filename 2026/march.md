@@ -32,3 +32,6 @@ Back in home
 **Date:** 9-march-2026
 Starting the week
 I completed basic tasks on boot.dev
+
+**Date:** 10-march-2026
+Starting the day with boot.dev
