@@ -42,3 +42,4 @@ Yesterday was a really bad, checking how to deal with bad things
 
 **Date:** 12-march-2026
 These are very difficult days, but I have to stay in calm
+I completed a basic task on boot.dev
