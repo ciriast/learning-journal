@@ -39,3 +39,6 @@ I completed the functional programming
 
 **Date:** 11-march-2026
 Yesterday was a really bad, checking how to deal with bad things
+
+**Date:** 12-march-2026
+These are very difficult days, but I have to stay in calm
