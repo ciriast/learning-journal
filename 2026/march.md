@@ -100,3 +100,6 @@ Only work today!
 **Date:** 28-march-2026
 This saturday will be very busy
 I completed a basic task on boot.dev
+
+**Date:** 29-march-2026
+Sunday and I need to work
