@@ -107,3 +107,4 @@ I completed a basick task on boot.dev
 
 **Date:** 30-march-2026
 Let's have a great new week!!!
+I completed two basic tasks on boot.dev
