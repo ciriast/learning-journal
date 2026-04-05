@@ -15,3 +15,4 @@ I completed a basic task on boot.dev
 
 **Date:** 5-april-2026
 I'm sick, damn
+I completed a basic task on boot.dev
