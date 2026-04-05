@@ -11,3 +11,7 @@ Day off, enjoying Dune again
 
 **Date:** 4-april-2026
 Back to work
+I completed a basic task on boot.dev
+
+**Date:** 5-april-2026
+I'm sick, damn
