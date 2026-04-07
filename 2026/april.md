@@ -19,3 +19,7 @@ I completed a basic task on boot.dev
 
 **Date:** 6-april-2026
 Still sick, trying to complete work
+
+**Date:** 7-april-2026
+Still sick, let's work today!!
+I completed a basic task on boot.dev
