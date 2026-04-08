@@ -23,3 +23,6 @@ Still sick, trying to complete work
 **Date:** 7-april-2026
 Still sick, let's work today!!
 I completed a basic task on boot.dev
+
+**Date:** 8-apriel-2026
+Damnnnnnn, let's continue with the good mod
