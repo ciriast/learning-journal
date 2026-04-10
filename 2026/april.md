@@ -31,3 +31,6 @@ I completed a basic task on boot.dev!!
 **Date:** 9-april-2026
 Finally, I feel better, I'm ok to go
 I completed a basic task on boot.dev
+
+**Date:** 10-april-2026
+Back in track!!
