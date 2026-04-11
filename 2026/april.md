@@ -35,3 +35,6 @@ I completed a basic task on boot.dev
 **Date:** 10-april-2026
 Back in track!!
 I completed a task on boot.dev!!
+
+**Date:** 11-april-2026
+Cleaning day and work!
