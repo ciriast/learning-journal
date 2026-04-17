@@ -57,3 +57,6 @@ Let's work!!
 
 **Date:** 16-april-2026
 Only work today, no time for anything else
+
+**Date:** 17-april-2026
+Preparing for work, let's go!!
