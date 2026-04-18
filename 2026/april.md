@@ -60,3 +60,6 @@ Only work today, no time for anything else
 
 **Date:** 17-april-2026
 Preparing for work, let's go!!
+
+**Date:** 18-april-2026
+Saturday and working!!
