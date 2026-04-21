@@ -75,3 +75,4 @@ I completed a task on boot.dev
 
 **Date:** 21-april-2026
 Back with my routine!!!
+studying notes from previous courses
