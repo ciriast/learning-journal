@@ -83,3 +83,4 @@ Yesterday was a good day!
 Let's continue with the good mod
 I earned a streak achievment in boot.dev!!!
 good work day
+Working in aiagent course
