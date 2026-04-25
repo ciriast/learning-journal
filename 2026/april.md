@@ -93,3 +93,6 @@ Good day at work :D
 **Date:** 24-april-2026
 I'll try to complete the task on boot.dev
 I completed a hard task on boot.dev and now I'm leve 57!!!
+
+**Date:** 25-april-2026
+Saturday to clean, study and work!!
