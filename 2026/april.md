@@ -96,3 +96,4 @@ I completed a hard task on boot.dev and now I'm leve 57!!!
 
 **Date:** 25-april-2026
 Saturday to clean, study and work!!
+I completed a basic task on boot.dev!
