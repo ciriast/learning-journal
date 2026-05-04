@@ -8,3 +8,6 @@ I completed a basic task on boot.dev
 **Date:** 3-may-2026
 Sunday to work and clean
 I completed a basic task on boot.dev
+
+**Date:** 4-may-2026
+Starting a new week!!
