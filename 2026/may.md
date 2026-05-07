@@ -25,3 +25,4 @@ These days I need to put extra hours in work, let's do it!!!
 **Date:** 7-may-2026
 Long days but focus on the goal, let's go!!!
 I completed four basic tasks on boot.dev!!!
+I started the basic queries chapter 5 on boot.dev
