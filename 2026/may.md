@@ -20,3 +20,4 @@ I completed a task on boot.dev!!
 **Date:** 6-may-2026
 Dificult days are comming and I need to stay calm!
 I completed a task on boot.dev
+These days I need to put extra hours in work, let's do it!!!
