@@ -29,3 +29,4 @@ I started the basic queries chapter 5 on boot.dev
 
 **Date:** 8-may-2026
 Friday and so much to do, let's gooooo!
+I completed three task on boot.dev
