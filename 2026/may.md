@@ -44,3 +44,4 @@ Starting a new week, let's work hard!!
 I completed basic tasks on boot.dev!
 I completed a intermediate task on boot.dev!!
 More hours today, I need to work on so many tasks
+I completed chapter 6, structuring, probably my best day in boot.dev
