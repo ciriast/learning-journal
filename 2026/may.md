@@ -48,3 +48,4 @@ I completed chapter 6, structuring, probably my best day in boot.dev
 
 **Date:** 12-may-2026
 Let's continue the streak!!
+I completed many tasks in boot.dev and I earned a 1000 xp chest!!
