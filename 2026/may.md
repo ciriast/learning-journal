@@ -50,3 +50,4 @@ I completed chapter 6, structuring, probably my best day in boot.dev
 Let's continue the streak!!
 I completed many tasks in boot.dev and I earned a 1000 xp chest!!
 More hours today, let's keep the good mood
+I completed a task in boot.dev!
