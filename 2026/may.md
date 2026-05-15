@@ -59,3 +59,6 @@ I completed chapter 7, Aggregations!!!
 **Date:** 14-may-2026
 Long hours at work, but I'm fine, let's do it!
 I COMPLETED chapter 8, subqueries in boot.dev!!!
+
+**Date:** 15-may-2026
+Let's continue and finish the work!!
