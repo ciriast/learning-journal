@@ -67,3 +67,4 @@ I completed more tasks in boot.dev!!!
 
 **Date:** 16-may-2026
 Saturday to work!!
+I completed chapter 9, normalization in boot.dev!!!! 
