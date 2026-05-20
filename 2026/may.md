@@ -80,3 +80,6 @@ I completed many tasks on boot.dev!!
 **Date:** 19-may-2026
 I had to work extra hours yesterday, but i'm ok
 I completed chapter 10, joins!!!
+
+**Date:** 20-may-2026
+Back on track!!
