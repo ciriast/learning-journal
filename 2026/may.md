@@ -84,3 +84,6 @@ I completed chapter 10, joins!!!
 **Date:** 20-may-2026
 Back on track!!
 I completed SQL course!!
+
+**Date:** 21-may-2026
+Starting data structures course!
