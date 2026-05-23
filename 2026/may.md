@@ -93,3 +93,6 @@ Learning DSA!
 Ready to start the day!!
 Working in DSA chapter 2!!
 I completed many tasks on boot.dev!!!
+
+**Date:** 23-may-2026
+Saturday to clean!
