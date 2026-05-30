@@ -118,3 +118,6 @@ I completed tasks on boot.dev!!
 Travel day
 
 Date: 29-may-2026 Still traveling
+
+**Date:** 30-may-2026
+Travelling but with time to do some boot.dev task
