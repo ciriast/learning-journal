@@ -122,3 +122,6 @@ Date: 29-may-2026 Still traveling
 **Date:** 30-may-2026
 Travelling but with time to do some boot.dev task
 I completed one task on boot.dev!
+
+**Date:** 31-may-2026
+Back in home, excited to continue learning
