@@ -9,3 +9,4 @@ I completed 3 task on boot.dev
 
 **Date:** 3-june-2026
 I hope to continue with the good streak!
+Currently studying insertion sort!
