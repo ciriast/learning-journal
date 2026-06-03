@@ -6,3 +6,6 @@ Working on merge sort algorithm
 Merge sort is hard, but I continue trying to solve the task
 I completed merge sort task!!
 I completed 3 task on boot.dev
+
+**Date:** 3-june-2026
+I hope to continue with the good streak!
