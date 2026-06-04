@@ -14,3 +14,4 @@ I was able to complete my first insertion sort in python!!!
 
 **Date:** 4-june-2026
 I feel less tired today, let's try to complete some code on boot.dev!
+I finished the insertion sort topic on boot.dev!!! Let's continue with quick sort!
