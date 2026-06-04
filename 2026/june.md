@@ -11,3 +11,6 @@ I completed 3 task on boot.dev
 I hope to continue with the good streak!
 Currently studying insertion sort!
 I was able to complete my first insertion sort in python!!!
+
+**Date:** 4-june-2026
+I feel less tired today, let's try to complete some code on boot.dev!
