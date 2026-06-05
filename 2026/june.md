@@ -18,3 +18,4 @@ I finished the insertion sort topic on boot.dev!!! Let's continue with quick sor
 
 **Date:** 5-june-2026
 Let's learn about quick sort!!!
+Taking notes about quick sort, really exciting
