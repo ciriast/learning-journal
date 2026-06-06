@@ -23,3 +23,4 @@ Taking notes about quick sort, really exciting
 **Date:** 6-june-2026
 Today I have a lot of work to do, let's keep the focus!
 I'm still not able to figure out quick sort, need to study more!
+I completed the first quick sort task!!!!
