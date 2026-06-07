@@ -1,4 +1,4 @@
-**Date:** 1-june-2026
+Date:** 1-june-2026
 A new beginning!!
 Working on merge sort algorithm
 
@@ -30,3 +30,4 @@ I completed two more basic tasks
 Today I'll study again all the DSA course topics until now
 I modified my vimrc and now we're talking
 Learning about vim buffers!
+I'm now level 62 on boot.dev!!
