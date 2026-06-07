@@ -31,3 +31,4 @@ Today I'll study again all the DSA course topics until now
 I modified my vimrc and now we're talking
 Learning about vim buffers!
 I'm now level 62 on boot.dev!!
+Practicing is fun, I think I'll spend the next practicing dsa before continue with the course
