@@ -29,3 +29,4 @@ I completed two more basic tasks
 **Date:** 7-june-2026
 Today I'll study again all the DSA course topics until now
 I modified my vimrc and now we're talking
+Learning about vim buffers!
