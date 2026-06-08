@@ -32,3 +32,6 @@ I modified my vimrc and now we're talking
 Learning about vim buffers!
 I'm now level 62 on boot.dev!!
 Practicing is fun, I think I'll spend the next practicing dsa before continue with the course
+
+**Date:** 8-june-2026
+Today I'll study bubble sort!
