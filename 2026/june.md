@@ -39,3 +39,6 @@ I completed bubble sort!!!!
 
 **Date:** 9-june-2026
 Today I'm going to study merge sort
+
+**Date:** 10-june-2026
+Let's continue with merge sort!!!
