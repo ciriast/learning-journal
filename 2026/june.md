@@ -42,3 +42,6 @@ Today I'm going to study merge sort
 
 **Date:** 10-june-2026
 Let's continue with merge sort!!!
+
+**Date:** 11-june-2026
+Continue working with merge sort!!!
