@@ -47,3 +47,6 @@ Let's continue with merge sort!!!
 Continue working with merge sort!!!
 Merge sort practice complete!!
 I'll continue with insertion sort!
+
+**Date:** 12-june-2026
+Need to focus on work today, no time for learning :c
