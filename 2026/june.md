@@ -54,3 +54,4 @@ see u tomorrow!
 
 **Date:** 13-june-2026
 Long week, but hey, I'm alive!
+I completed insertion sort!!!
