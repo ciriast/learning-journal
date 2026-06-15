@@ -60,3 +60,7 @@ I completed insertion sort!!!
 Cleaning day and checking work to make necessary changes!
 only time to work, damn it
 I continue study about quicksort and dsa!!!
+
+**Date:** 15-june-2026
+I think this week I can go back to my routine, I hope so!!!
+I need to keep practicing quick sort!!
