@@ -67,3 +67,6 @@ I need to keep practicing quick sort!!
 
 **Date:** 16-june-2026
 Ok, back on track, studying quick sort and I'll do a binary search today
+
+**Date:** 17-june-2026
+Still learning these algorithms, I'll do it the right way!
