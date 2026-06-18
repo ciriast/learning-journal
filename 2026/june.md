@@ -70,3 +70,8 @@ Ok, back on track, studying quick sort and I'll do a binary search today
 
 **Date:** 17-june-2026
 Still learning these algorithms, I'll do it the right way!
+I got a better result practicing binary search!!
+
+**Date:** 18-june-2026
+I'll continue practicing DSA!!!
+Ok, my quick sort practice was better today!
