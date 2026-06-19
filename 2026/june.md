@@ -75,3 +75,6 @@ I got a better result practicing binary search!!
 **Date:** 18-june-2026
 I'll continue practicing DSA!!!
 Ok, my quick sort practice was better today!
+
+**Date:** 19-june-2026
+I'll practice insertion sort :D
