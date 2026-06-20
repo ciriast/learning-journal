@@ -79,3 +79,6 @@ Ok, my quick sort practice was better today!
 **Date:** 19-june-2026
 I'll practice insertion sort :D
 Good day practicing insertion sort and binary search!
+
+**Date:** 20-june-2026
+Cleaning day and work, no time to DSA today :c
