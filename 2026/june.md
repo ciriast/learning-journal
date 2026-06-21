@@ -86,3 +86,4 @@ I had time to practice merge sort!!
 
 **Date:** 21-june-2026
 I'm to check the odin programming language!
+ok, I checked Odin and zig, honesty I prefer odin syntax, is so much clear to me
