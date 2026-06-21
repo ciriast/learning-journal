@@ -82,3 +82,4 @@ Good day practicing insertion sort and binary search!
 
 **Date:** 20-june-2026
 Cleaning day and work, no time to DSA today :c
+I had time to practice merge sort!!
