@@ -83,3 +83,6 @@ Good day practicing insertion sort and binary search!
 **Date:** 20-june-2026
 Cleaning day and work, no time to DSA today :c
 I had time to practice merge sort!!
+
+**Date:** 21-june-2026
+I'm to check the odin programming language!
