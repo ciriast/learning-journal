@@ -91,3 +91,4 @@ ok, I checked Odin and zig, honesty I prefer odin syntax, is so much clear to me
 **Date:** 22-june-2026
 A new week full of opportunities to learn!
 I wrote my first bubble sort in odin!
+Now, full focus on work!!!
