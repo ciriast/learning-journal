@@ -92,3 +92,6 @@ ok, I checked Odin and zig, honesty I prefer odin syntax, is so much clear to me
 A new week full of opportunities to learn!
 I wrote my first bubble sort in odin!
 Now, full focus on work!!!
+
+**Date:** 23-june-2026
+I'll practice binary search in odin!
