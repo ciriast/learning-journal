@@ -95,3 +95,4 @@ Now, full focus on work!!!
 
 **Date:** 23-june-2026
 I'll practice binary search in odin!
+I added the odin syntax to vim!!
