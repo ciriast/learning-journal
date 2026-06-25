@@ -96,3 +96,6 @@ Now, full focus on work!!!
 **Date:** 23-june-2026
 I'll practice binary search in odin!
 I added the odin syntax to vim!!
+
+**Date:** 25-june-2026
+I wrote my first hello world in cpp since college, today is a great day!!
