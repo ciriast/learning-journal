@@ -106,3 +106,6 @@ Now, let's do a bubble sort!
 Bubble sort completed, now insertion sort!!!
 Good day at work, I'll continue my insertion sort implementation in cpp
 I completed insertion sort!!!! contine with the most difficults until now, merge and quick sort, fun!
+
+**Date:** 27-june-2026
+Cleaning day and some cpp, let's go!!!
