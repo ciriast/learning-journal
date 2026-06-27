@@ -104,3 +104,4 @@ I wrote my first hello world in cpp since college, today is a great day!!
 I practiced binary search in cpp, great!!!!
 Now, let's do a bubble sort!
 Bubble sort completed, now insertion sort!!!
+Good day at work, I'll continue my insertion sort implementation in cpp
