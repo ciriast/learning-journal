@@ -109,3 +109,6 @@ I completed insertion sort!!!! contine with the most difficults until now, merge
 
 **Date:** 27-june-2026
 Cleaning day and some cpp, let's go!!!
+
+**Date:** 28-june-2026
+Starting lazy foo tutorial for sdl, let's go!!!
