@@ -113,3 +113,6 @@ Cleaning day and some cpp, let's go!!!
 **Date:** 28-june-2026
 Starting lazy foo tutorial for sdl, let's go!!!
 I finished the first tutorial for sdl, it feels so good!!!
+
+**Date:** 29-june-2026
+A new week, new opportunities to learn!
