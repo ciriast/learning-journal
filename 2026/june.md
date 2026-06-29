@@ -116,3 +116,4 @@ I finished the first tutorial for sdl, it feels so good!!!
 
 **Date:** 29-june-2026
 A new week, new opportunities to learn!
+Merge sort completed in cpp!!!
