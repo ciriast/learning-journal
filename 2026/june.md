@@ -120,3 +120,4 @@ Merge sort completed in cpp!!!
 
 **Date:** 30-june-2026
 Today is going to be fun, some cpp and c#!
+I'm taking notes about SDL
