@@ -5,3 +5,6 @@ Hard day at work, I'm tired, let's practice something!
 I'll continue learning about SDL!
 I finished the first window with SDL! Now some DSA with c#!
 Hard day, damn, but we need to continue improving!
+
+**Date:** 3-july-2026
+Continue with DSA in C# :D
