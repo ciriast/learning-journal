@@ -8,3 +8,4 @@ Hard day, damn, but we need to continue improving!
 
 **Date:** 3-july-2026
 Continue with DSA in C# :D
+Hard day, again, let's see if I can complete insertion sort in c#
