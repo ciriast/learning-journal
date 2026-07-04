@@ -10,3 +10,6 @@ Hard day, damn, but we need to continue improving!
 Continue with DSA in C# :D
 Hard day, again, let's see if I can complete insertion sort in c#
 I completed insertion sort in c#, now is only quick sort left, I'll work on that tomorrow!!!
+
+**Date:** 4-july-2026
+Cleaning day :D
