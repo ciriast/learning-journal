@@ -16,3 +16,4 @@ Cleaning day :D
 
 **Date:** 5-july-2026
 Sunday to implement basic bubble sort in c# and then only work, let's go!!!!
+bubble sort implemented and some basic challenges in boot.dev!
