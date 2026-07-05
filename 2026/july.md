@@ -13,3 +13,6 @@ I completed insertion sort in c#, now is only quick sort left, I'll work on that
 
 **Date:** 4-july-2026
 Cleaning day :D
+
+**Date:** 5-july-2026
+Sunday to implement basic bubble sort in c# and then only work, let's go!!!!
