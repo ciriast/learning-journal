@@ -23,3 +23,4 @@ New week, new opportunities to learn!!!
 
 **Date:** 7-july-2026
 Some c# today :D
+I completed quick sort in c#!!
