@@ -20,3 +20,6 @@ bubble sort implemented and some basic challenges in boot.dev!
 
 **Date:** 6-july-2026
 New week, new opportunities to learn!!!
+
+**Date:** 7-july-2026
+Some c# today :D
