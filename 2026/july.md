@@ -27,3 +27,6 @@ I completed quick sort in c#!!
 
 **Date:** 8-july-2026
 Let's practice some cpp today!
+
+**Date:** 9-july-2026
+I'll continue working with cpp :D
