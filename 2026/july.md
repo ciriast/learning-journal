@@ -33,3 +33,4 @@ I'll continue working with cpp :D
 
 **Date:** 10-july-2026
 Today I'll practice binary search in cpp!
+Completed binary search in cpp!!
