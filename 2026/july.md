@@ -30,3 +30,6 @@ Let's practice some cpp today!
 
 **Date:** 9-july-2026
 I'll continue working with cpp :D
+
+**Date:** 10-july-2026
+Today I'll practice binary search in cpp!
