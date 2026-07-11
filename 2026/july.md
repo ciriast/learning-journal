@@ -35,3 +35,6 @@ I'll continue working with cpp :D
 Today I'll practice binary search in cpp!
 Completed binary search in cpp!!
 Hard day... And I need to work on weekend, let's say thanks for everything and keep going!
+
+**Date:** 11-july-2026
+Cleaning day, cpp game dev and work, fun day!!!
