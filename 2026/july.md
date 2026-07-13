@@ -39,3 +39,6 @@ Hard day... And I need to work on weekend, let's say thanks for everything and k
 **Date:** 11-july-2026
 Cleaning day, cpp game dev and work, fun day!!!
 Practice cpp game finished, now time to clean!
+
+**Date:** 11-july-2026
+hard day, no time for anything
