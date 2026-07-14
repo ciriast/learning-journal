@@ -42,3 +42,6 @@ Practice cpp game finished, now time to clean!
 
 **Date:** 11-july-2026
 hard day, no time for anything
+
+**Date:** 12-july-2026
+No time for anything, just work, let's say thank you for the good things!
