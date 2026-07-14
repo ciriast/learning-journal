@@ -45,3 +45,6 @@ hard day, no time for anything
 
 **Date:** 12-july-2026
 No time for anything, just work, let's say thank you for the good things!
+
+**Date:** 14-july-2026
+Practice SDL with cpp today!
