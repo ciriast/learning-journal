@@ -48,3 +48,4 @@ No time for anything, just work, let's say thank you for the good things!
 
 **Date:** 14-july-2026
 Practice SDL with cpp today!
+Reading SDL documentation
