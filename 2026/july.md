@@ -52,3 +52,6 @@ Reading SDL documentation
 
 **Date:** 15-july-2026
 No time for study today, hard day, let's focus on work!
+
+**Date:** 16-july-2026
+Only work today, no time for anything else
