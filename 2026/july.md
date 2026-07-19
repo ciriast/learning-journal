@@ -58,3 +58,6 @@ Only work today, no time for anything else
 
 **Date:** 17-july-2026
 Only focus on work these days, but I'm not forgetting my goals!
+
+**Date:** 18-july-2026
+Saturday to clean and work, nothing more
