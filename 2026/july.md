@@ -61,3 +61,6 @@ Only focus on work these days, but I'm not forgetting my goals!
 
 **Date:** 18-july-2026
 Saturday to clean and work, nothing more
+
+**Date:** 19-july-2026
+Practice english and work, let's do it!
