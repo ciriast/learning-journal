@@ -64,3 +64,6 @@ Saturday to clean and work, nothing more
 
 **Date:** 19-july-2026
 Practice english and work, let's do it!
+
+**Date:** 20-july-2026
+Only work today
