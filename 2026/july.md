@@ -67,3 +67,6 @@ Practice english and work, let's do it!
 
 **Date:** 20-july-2026
 Only work today
+
+**Date:** 21-july-2026
+I'm thinking about changing my learning path, I'll check
