@@ -70,3 +70,6 @@ Only work today
 
 **Date:** 21-july-2026
 I'm thinking about changing my learning path, I'll check
+
+**Date:** 22-july-2026
+I'll continue checking the best options for me
