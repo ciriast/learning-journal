@@ -73,3 +73,6 @@ I'm thinking about changing my learning path, I'll check
 
 **Date:** 22-july-2026
 I'll continue checking the best options for me
+
+**Date:** 23-july-2026
+It's difficult to focus on the right thing, because probably you don't know what's the right thing, damn
