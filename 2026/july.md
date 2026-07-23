@@ -76,3 +76,4 @@ I'll continue checking the best options for me
 
 **Date:** 23-july-2026
 It's difficult to focus on the right thing, because probably you don't know what's the right thing, damn
+I completed selection sort in boot.dev
