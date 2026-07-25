@@ -80,3 +80,6 @@ I completed selection sort in boot.dev
 
 **Date:** 24-july-2026
 Only work, too much work these days, let's gooo!!
+
+**Date:** 25-july-2026
+Cleaning day and work!!!
