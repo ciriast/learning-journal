@@ -86,3 +86,6 @@ Cleaning day and work!!!
 
 **Date:** 26-july-2026
 Only work today
+
+**Date:** 27-july-2026
+A new week to learning new things!!
