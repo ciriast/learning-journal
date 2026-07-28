@@ -89,3 +89,6 @@ Only work today
 
 **Date:** 27-july-2026
 A new week to learning new things!!
+
+**Date:** 28-july-2026
+I'm at the hospital, so no time to practice
