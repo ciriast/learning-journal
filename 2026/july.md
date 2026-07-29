@@ -92,3 +92,6 @@ A new week to learning new things!!
 
 **Date:** 28-july-2026
 I'm at the hospital, so no time to practice
+
+**Date:** 29-july-2026
+Not a good day
