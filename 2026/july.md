@@ -95,3 +95,6 @@ I'm at the hospital, so no time to practice
 
 **Date:** 29-july-2026
 Not a good day
+
+**Date** 30-july-2026
+Not a good day x2
