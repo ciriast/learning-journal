@@ -6,3 +6,6 @@ Difficult days, but trying to get back to my routine
 
 **Date:** 3-august-2026
 Only working today
+
+**Date:** 4-august-2026
+Really hard times, but keep the good mood, let's go!
