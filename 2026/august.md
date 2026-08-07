@@ -15,3 +15,6 @@ Only work, let's go!!!
 
 **Date:** 6-august-2026
 More work, and more work
+
+**Date:** 7-august-2026
+ok, only work today
