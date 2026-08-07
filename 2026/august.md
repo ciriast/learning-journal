@@ -12,3 +12,6 @@ Really hard times, but keep the good mood, let's go!
 
 **Date:** 5-august-2026
 Only work, let's go!!!
+
+**Date:** 6-august-2026
+More work, and more work
