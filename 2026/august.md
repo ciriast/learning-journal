@@ -19,5 +19,5 @@ More work, and more work
 **Date:** 7-august-2026
 ok, only work today
 
-**Date:**8-august-2026
+**Date:** 8-august-2026
 A day for rest, good!
