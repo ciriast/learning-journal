@@ -33,3 +33,6 @@ Only working
 
 **Date:** 12-august-2026
 Not ready to come back to my routine, only work
+
+**Date:** 13-august-2026
+Thinking about my future
