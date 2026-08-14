@@ -36,3 +36,6 @@ Not ready to come back to my routine, only work
 
 **Date:** 13-august-2026
 Thinking about my future
+
+**Date:** 14-august-2026
+Only working today, let's go!!!
