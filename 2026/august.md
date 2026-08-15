@@ -39,3 +39,6 @@ Thinking about my future
 
 **Date:** 14-august-2026
 Only working today, let's go!!!
+
+**Date:** 15-august-2026
+Cleaning and work!
