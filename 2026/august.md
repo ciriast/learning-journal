@@ -42,3 +42,6 @@ Only working today, let's go!!!
 
 **Date:** 15-august-2026
 Cleaning and work!
+
+**Date:** 16-august-2026
+Sunday to work!
