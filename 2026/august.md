@@ -52,3 +52,6 @@ Only working :D
 **Date:** 18-august-2026
 Finally I'm back in my env!
 ok, I'm going to study something different these days!
+
+**Date:** 19-august-2026
+Learning more about bash!
