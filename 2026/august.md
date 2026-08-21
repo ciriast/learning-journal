@@ -55,3 +55,6 @@ ok, I'm going to study something different these days!
 
 **Date:** 19-august-2026
 Learning more about bash!
+
+**Date:** 20-august-2026
+Only workingo today!
