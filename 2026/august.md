@@ -73,3 +73,6 @@ Only work today, damn
 
 **Date:** 25-august-2026
 Study and work!
+
+**Date:** 26-august-2026
+Continue studying about bash!
