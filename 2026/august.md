@@ -79,3 +79,6 @@ Continue studying about bash!
 
 **Date:** 27-august-2026
 Good day at work!!
+
+**Date:** 28-august-2026
+Day off!!!
