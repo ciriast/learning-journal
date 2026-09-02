@@ -4,3 +4,4 @@ I finished the first lecture: course overview + introduction to the shell
 
 **Date:** 2-september-2026
 Studying the notes lecture!
+find command is very useful
