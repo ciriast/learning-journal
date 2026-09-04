@@ -9,3 +9,6 @@ find command is very useful
 **Date:** 3-september-2026
 Continue reading the notes lecture
 Now, let's practice with the lecture exercises!
+
+**Date:** 4-september-2026
+No much time to learn today, but let's have a little recap
