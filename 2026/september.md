@@ -12,3 +12,6 @@ Now, let's practice with the lecture exercises!
 
 **Date:** 4-september-2026
 No much time to learn today, but let's have a little recap
+
+**Date:** 5-september-2026
+Cleaning day and work, let's go!!!
