@@ -15,3 +15,6 @@ No much time to learn today, but let's have a little recap
 
 **Date:** 5-september-2026
 Cleaning day and work, let's go!!!
+
+**Date:** 6-september-2026
+Work and some sleep :D
