@@ -18,3 +18,6 @@ Cleaning day and work, let's go!!!
 
 **Date:** 6-september-2026
 Work and some sleep :D
+
+**Date:** 7-september-2026
+Only work today!
