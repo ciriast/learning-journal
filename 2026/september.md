@@ -21,3 +21,6 @@ Work and some sleep :D
 
 **Date:** 7-september-2026
 Only work today!
+
+**Date:** 8-september-2026
+Yesterday I renewed my microsoft cert, today, study and work!
