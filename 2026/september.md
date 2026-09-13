@@ -36,3 +36,6 @@ I'm not feeling good today, but I hope to get better tomorrow!
 
 **Date:** 12-september-2026
 I'm feeling better, resting and doing well!
+
+**Date:** 13-september-2026
+Let's study some bash!
