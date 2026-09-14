@@ -40,3 +40,6 @@ I'm feeling better, resting and doing well!
 **Date:** 13-september-2026
 Let's study some bash!
 Learning about globbing
+
+**Date:** 14-september-2026
+Continue with bash
