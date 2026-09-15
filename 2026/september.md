@@ -43,3 +43,6 @@ Learning about globbing
 
 **Date:** 14-september-2026
 Continue with bash
+
+**Date:** 15-september-2026
+Day off!
