@@ -49,3 +49,4 @@ Day off!
 
 **Date:** 16-september-2026
 Let's continue with bash!
+Learning about quoting
