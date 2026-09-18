@@ -50,3 +50,6 @@ Day off!
 **Date:** 16-september-2026
 Let's continue with bash!
 Learning about quoting
+
+**Date:** 17-september-2026
+Only work :D
