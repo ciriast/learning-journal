@@ -53,3 +53,6 @@ Learning about quoting
 
 **Date:** 17-september-2026
 Only work :D
+
+**Date:** 18-september-2026
+Work and more work
