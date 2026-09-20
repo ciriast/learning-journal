@@ -59,3 +59,6 @@ Work and more work
 
 **Date:** 19-september-2026
 Rest and work
+
+**Date:** 20-september-2026
+Only work today
