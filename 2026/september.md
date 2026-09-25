@@ -74,3 +74,6 @@ Only work :D
 
 **Date:** 24-september-2026
 Hard day, but continue with the good mod
+
+**Date:** 25-september-2026
+Trying to come back to bash!
