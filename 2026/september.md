@@ -89,3 +89,6 @@ Good day, let's keep the good mod
 
 **Date:** 29-september-2026
 Let's study today!
+
+**Date:** 30-september-2026
+Last day of the month, good day!!!
