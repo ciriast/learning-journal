@@ -12,3 +12,7 @@ a good day, rest today
 
 **5-october-2026**
 Only work, I need to back to my routine
+
+**6-october-2026**
+Back in bash
+
