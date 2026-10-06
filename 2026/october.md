@@ -16,3 +16,5 @@ Only work, I need to back to my routine
 **6-october-2026**
 Back in bash
 
+**7-october-2026**
+Learning about quoating
