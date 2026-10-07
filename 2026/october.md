@@ -18,3 +18,6 @@ Back in bash
 
 **7-october-2026**
 Learning about quoating
+
+**8-october-2026**
+Only working today!
