@@ -21,3 +21,4 @@ Learning about quoating
 
 **8-october-2026**
 Only working today!
+Day off, only rest
