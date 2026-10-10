@@ -25,3 +25,6 @@ Day off, only rest
 
 **9-october-2026**
 Continue resting, so yeaaahh
+
+**10-october-2026**
+Rest and cleaning
