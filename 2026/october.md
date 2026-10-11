@@ -28,3 +28,6 @@ Continue resting, so yeaaahh
 
 **10-october-2026**
 Rest and cleaning
+
+**11-october-2026**
+work and rest
