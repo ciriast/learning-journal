@@ -31,3 +31,6 @@ Rest and cleaning
 
 **11-october-2026**
 work and rest
+
+**12-october-2026**
+Only work today!
