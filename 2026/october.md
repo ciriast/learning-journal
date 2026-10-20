@@ -56,3 +56,6 @@ Work!!
 **19-october-2026**
 Back on track today!
 I need to work extra today, so no study tonight
+
+**20-october-2026**
+Back to bash, trying to study every day!
