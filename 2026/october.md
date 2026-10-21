@@ -62,3 +62,4 @@ Back to bash, trying to study every day!
 
 **21-october-2026**
 Feeling good and reading more about quoting
+studying the escape character definition
