@@ -66,3 +66,6 @@ studying the escape character definition
 
 **22-october-2026**
 Reading my notes
+
+**23-october-2026**
+Reading an article
