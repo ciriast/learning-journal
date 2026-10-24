@@ -70,3 +70,6 @@ Reading my notes
 **23-october-2026**
 Reading an article
 ok, that was a great article
+
+**24-october-2026**
+I'll continue reading about quoting
