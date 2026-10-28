@@ -79,3 +79,6 @@ Rest
 
 **26-october-2026**
 Only work
+
+**27-october-2026**
+Just work
