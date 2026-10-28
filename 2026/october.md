@@ -82,3 +82,6 @@ Only work
 
 **27-october-2026**
 Just work
+
+**28-october-2026**
+Continue working, I'll continue with bash until next week
