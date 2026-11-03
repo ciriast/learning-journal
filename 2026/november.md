@@ -6,3 +6,4 @@ Only working
 
 **3 november 2026**
 Study and then work!
+I want to make a game in c
