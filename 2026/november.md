@@ -16,3 +16,6 @@ Tbis is not working for me, I need to focus again
 
 **6 november 2026**
 Ok, I needed to rest, now I'm back I'll start my text game in C
+
+**7 november 2026**
+Checking some C functionalities for the text game
