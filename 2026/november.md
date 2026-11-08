@@ -19,3 +19,6 @@ Ok, I needed to rest, now I'm back I'll start my text game in C
 
 **7 november 2026**
 Checking some C functionalities for the text game
+
+**8 november 2026**
+Only working today
