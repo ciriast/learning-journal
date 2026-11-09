@@ -22,3 +22,6 @@ Checking some C functionalities for the text game
 
 **8 november 2026**
 Only working today
+
+**9 november 2026**
+let's work!!!
