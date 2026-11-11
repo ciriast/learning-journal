@@ -28,3 +28,6 @@ let's work!!!
 
 **10 november 2026**
 No time for anything than work today
+
+**11 november 2026**
+Only work, damn
