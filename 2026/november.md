@@ -25,3 +25,6 @@ Only working today
 
 **9 november 2026**
 let's work!!!
+
+**10 november 2026**
+No time for anything than work today
