@@ -31,3 +31,6 @@ No time for anything than work today
 
 **11 november 2026**
 Only work, damn
+
+**12 november 2026**
+Only work, damnx2
