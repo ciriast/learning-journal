@@ -40,3 +40,6 @@ Only work, damnx3
 
 **14 november 2026**
 I'm sick, damn
+
+**15 november 2026**
+I continue sick, so only rest today
