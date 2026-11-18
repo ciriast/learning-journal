@@ -46,3 +46,6 @@ I continue sick, so only rest today
 
 **16 november 2026**
 Only working
+
+**17 november 2026**
+Only working again
