@@ -52,3 +52,6 @@ Only working again
 
 **18 november 2026**
 I'm tired
+
+**19 november 2026**
+Not today, but maybe tomorrow.
