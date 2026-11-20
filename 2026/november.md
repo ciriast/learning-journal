@@ -55,3 +55,6 @@ I'm tired
 
 **19 november 2026**
 Not today, but maybe tomorrow.
+
+**20 november 2026**
+Work and rest
