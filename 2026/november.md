@@ -58,3 +58,6 @@ Not today, but maybe tomorrow.
 
 **20 november 2026**
 Work and rest
+
+**21 november 2026**
+Only rest today
