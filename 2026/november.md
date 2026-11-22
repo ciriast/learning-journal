@@ -61,3 +61,6 @@ Work and rest
 
 **21 november 2026**
 Only rest today
+
+**22 november 2026**
+Sunday to work
