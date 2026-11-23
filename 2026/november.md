@@ -64,3 +64,6 @@ Only rest today
 
 **22 november 2026**
 Sunday to work
+
+**23 november 2026**
+Only time for work
