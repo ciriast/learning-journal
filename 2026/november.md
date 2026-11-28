@@ -76,3 +76,6 @@ Just work
 
 **26 november 2026**
 busy day
+
+**27 november 2026**
+travel day
